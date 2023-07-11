@@ -1,4 +1,4 @@
-import sounds from "/js/sounds.js"
+import sounds from "./js/sounds.js"
 
 export function Timer({
     minuteDisplay,

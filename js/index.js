@@ -1,6 +1,6 @@
 import {Controls} from "./controls.js"
-import {Timer} from "/js/timer.js"
-import Sound from "/js/sounds.js"
+import {Timer} from "./js/timer.js"
+import Sound from "./js/sounds.js"
 import {
     buttonPause,
     buttonPlay,
@@ -10,7 +10,7 @@ import {
     buttonSoundOn,
     minuteDisplay,
     secondDisplay
-} from "/js/elements.js"
+} from "./js/elements.js"
 
 const controls = Controls({
     buttonPlay,
